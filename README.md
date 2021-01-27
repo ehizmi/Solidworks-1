@@ -1,2 +1,2 @@
 # Solidworks-1
-Implementing Variable use in Solidworks
+This project showcases growth in learning Solidworks assembly and complex designs. 
